@@ -54,8 +54,7 @@ Currently, I dedicate my time to learning and applying.
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alvaro-Sousa&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alvaro-Sousa&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
-- Languages: 10
-- Private Repositories: [Counted]
+
 ---
 
 ## 🚀 Philosophy
