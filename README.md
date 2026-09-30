@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,50:8B008B,100:C026D3&height=210&section=header&text=Alvaro%20Antonio&fontSize=44&fontColor=ffffff&animation=blurIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20SaaS%20%26%20High%20Scale&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,50:8B008B,100:C026D3&height=210&section=header&text=Alvaro%20Antonio&fontSize=44&fontColor=ffffff&animation=blurIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20SaaS%20%26%20High%20Scale&descAlignY=58&descSize=18&v=2" />
 </p>
 
 <p align="center">
@@ -117,11 +117,7 @@ Minha Philosophy:
 ## 🐍 Commits
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alvaro-Sousa/Alvaro-Sousa/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alvaro-Sousa/Alvaro-Sousa/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alvaro-Sousa/Alvaro-Sousa/output/github-snake.svg" />
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alvaro-Sousa/Alvaro-Sousa/main/output/github-snake-dark.svg" />
 </p>
 
 ---
@@ -129,7 +125,7 @@ Minha Philosophy:
 ## 💭 Frase
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://raw.githubusercontent.com/Alvaro-Sousa/Alvaro-Sousa/main/assets/frase.svg" alt="O primeiro passo para o fracasso é o depois eu faço" />
 </p>
 
 ---
