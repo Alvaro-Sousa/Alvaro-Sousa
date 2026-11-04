@@ -10,7 +10,7 @@
 
 ## 👋 Sobre
 
-Sou **Álvaro Antônio**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação com ambição **Full Stack**.
+Sou **Álvaro Sousa**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação com ambição **Full Stack**.
 
 Construo **produtos escaláveis**, **plataformas SaaS** e **sistemas web de alta performance**. Meu jeito de desenvolver é guiado por **arquitetura, performance, código limpo** e soluções orientadas a negócio.
 
@@ -53,7 +53,7 @@ Minha Philosophy:
   <a href="https://www.linkedin.com/in/%C3%A1lvaro-sousa-136643324/">
     <img src="https://img.shields.io/badge/LinkedIn-%C3%81lvaro%20Ant%C3%B4nio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/alvru_s/">
+  <a href="https://www.instagram.com/alvaros_dev/">
     <img src="https://img.shields.io/badge/Instagram-@alvru_s-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/Alvaro-Sousa">
